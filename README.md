@@ -2,7 +2,7 @@
 ## Intoduction
 Hi there, nice to meet you :)\
 My name is ForestHouse, I like to do programming, composing, and many other things by doing with computers.\
-And as my name implies, I love our Earth and plants (especially sprout 🌱🌱🌱)\
+And as my name implies, I love our Earth and plants (especially sprout 🌱🌱🌱)
 
 ## Activities
 - College Stu ( *newbie* lol )

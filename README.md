@@ -1,4 +1,4 @@
-# ForestHouse - *A GREENY BOY* living in Korea
+# ForestHouse - *A GREENY SPROUT* living in Korea
 ## Introduction
 Hi there, nice to meet you :)\
 My name is ForestHouse, I like to do programming, composing, and many other things by doing with computers.\

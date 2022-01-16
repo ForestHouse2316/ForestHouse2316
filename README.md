@@ -17,4 +17,4 @@ And as my name implies, I love our Earth and plants (especially sprout 🌱🌱�
 
 
 ## HUP! Power meme atk!
-<img src="/meme/Ripeness challenge.png?raw=true" height = "300px" align = "left">
+<img src="/meme/Ripening challenge.png?raw=true" height = "300px" align = "left">

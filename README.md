@@ -8,6 +8,7 @@ And as my name implies, I love our Earth and plants (especially sprout 🌱🌱�
 - College Stu ( *newbie* lol )
 - RICA - A strong comment manager which uses neural networks 🛠️
 - GADC - HoYoLAB Auto check-in program which works on the Windows OS
+- Pocket Genshiner - The Genshin in your hand
 - Genshin Impact Content Creator on HoYoLAB
 
 ### Ended activities

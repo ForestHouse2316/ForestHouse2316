@@ -16,6 +16,8 @@ And as my name implies, I love our Earth and plants (especially sprout 🌱🌱�
 - GADC - HoYoLAB Auto check-in program which works on the Windows OS\
 *The GADC's supports have been suspended because of development of the Pocket Genshiner.*
 
+## 🌳🌲🍃
+Constructing OCI server now! Cya in their soon 😊
 
 ## HUP! Power meme atk!
 <img src="/meme/Ripening challenge.png?raw=true" height = "300px" align = "left">

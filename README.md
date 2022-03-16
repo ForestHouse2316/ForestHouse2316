@@ -1,9 +1,14 @@
 # ForestHouse - *A GREENY SPROUT* living in Korea
 
 ## Introduction
-Hi there, nice to meet you :)\
-My name is ForestHouse, I like to do programming, composing, and many other things by doing with computers.\
-And as my name implies, I love our Earth and plants (especially sprout 🌱🌱🌱)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ForestHouse2316"></img>
+<p align="left">
+  <p>Hi there, nice to meet you :)</p>
+  <p>My name is ForestHouse, I like to do programming, composing, and many other things by doing with computers.</p>
+  <p>And as my name implies, I love our Earth and plants
+  <br>
+  (especially sprout 🌱🌱🌱)</p>
+</p>
 
 ## Activities
 - College Stu ( *newbie* lol )
@@ -19,5 +24,3 @@ And as my name implies, I love our Earth and plants (especially sprout 🌱🌱�
 ## 🌳🌲🍃
 Constructing OCI server now! Cya in their soon 😊
 
-## HUP! Power meme atk!
-<img src="/meme/Ripening challenge.png?raw=true" height = "300px" align = "left">

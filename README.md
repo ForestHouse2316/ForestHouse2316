@@ -12,6 +12,7 @@
 
 ## Activities
 - College Stu ( *newbie* lol )
+- gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
 - RICA - A strong comment manager which uses neural networks 🛠️
 - Pocket Genshiner - The Genshin in your hand
 - Genshin Impact Content Creator on HoYoLAB

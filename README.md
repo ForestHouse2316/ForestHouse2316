@@ -8,7 +8,9 @@
   <p>And as my name implies, I love our Earth and plants
   <br>
   (especially sprout 🌱🌱🌱)</p>
+  <br>
 </p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForestHouse2316&layout=compact&langs_count=8"></img>
 
 ## Activities
 - College Stu

@@ -17,6 +17,7 @@
 - College Stu
 - gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
 - EZ Manager - Simple utilities for devs
+- 🔒***A SECRET GREENY PROJECT***
 - Genshin Impact Content Creator on HoYoLAB
 
 ### Paused

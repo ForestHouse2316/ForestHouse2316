@@ -14,6 +14,7 @@
 <br>
 
 ## Activities
+- ***Preparing CampusPatentUniversidad competition X(.... HELP***
 - College Stu
 - gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
 - EZ Manager - Simple utilities for devs

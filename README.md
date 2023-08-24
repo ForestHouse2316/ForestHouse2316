@@ -13,7 +13,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForestHouse2316&layout=compact&langs_count=8"></img>
 <br>
 
-## Activities
+## ❎Activities
 - 📈***Preparing CampusPatentUniversiad competition X(.... HELP***
 - 🍇RaspberryPi IoT system designing
 - ✏️DS / Algorithm study
@@ -22,17 +22,18 @@
 - 🔧EZ Manager - Simple utilities for devs
 - 🔒***A SECRET GREENY PROJECT***
 
-### Paused
+### ⏹️Paused
 - RICA - A strong comment manager which uses neural networks 🛠️ (should be able to handle lots of skills of ML)
 
-### Ended activities
+### 🛑Ended activities
 - AELT - Auto EBS Lecture Taker
 - GADC - HoYoLAB Auto check-in program which works on the Windows OS\
 *The GADC's supports have been suspended because of development of the Pocket Genshiner.*
 - Pocket Genshiner - The Genshin in your hand (wht abt using vue.js instead of raw HTML in electron?)
 - Genshin Impact Content Creator on HoYoLAB (~2023.06)
 
-
-## 🌳🌲🍃
-Constructing OCI server now! Cya in their soon 😊
-
+## 📆Planned job
+- RaspberryPi IoT
+- gksdudaovld C++ version release
+- Physical WOL - Turn on your computer physically
+- Construct OCI server

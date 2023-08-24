@@ -14,21 +14,23 @@
 <br>
 
 ## Activities
-- ***Preparing CampusPatentUniversidad competition X(.... HELP***
-- College Stu
-- gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
-- EZ Manager - Simple utilities for devs
+- 📈***Preparing CampusPatentUniversiad competition X(.... HELP***
+- 🍇RaspberryPi IoT system designing
+- ✏️DS / Algorithm study
+- 🏫~~College Stu~~ Nation's son (kinda part-time job lol)
+- 🅰️gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
+- 🔧EZ Manager - Simple utilities for devs
 - 🔒***A SECRET GREENY PROJECT***
-- Genshin Impact Content Creator on HoYoLAB
 
 ### Paused
 - RICA - A strong comment manager which uses neural networks 🛠️ (should be able to handle lots of skills of ML)
-- Pocket Genshiner - The Genshin in your hand (wht abt using vue.js instead of raw HTML in electron?)
 
 ### Ended activities
 - AELT - Auto EBS Lecture Taker
 - GADC - HoYoLAB Auto check-in program which works on the Windows OS\
 *The GADC's supports have been suspended because of development of the Pocket Genshiner.*
+- Pocket Genshiner - The Genshin in your hand (wht abt using vue.js instead of raw HTML in electron?)
+- Genshin Impact Content Creator on HoYoLAB (~2023.06)
 
 
 ## 🌳🌲🍃

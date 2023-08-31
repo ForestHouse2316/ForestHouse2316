@@ -37,3 +37,4 @@
 - gksdudaovld C++ version release
 - Physical WOL - Turn on your computer physically
 - Construct OCI server
+- Write GitHub standard guidline

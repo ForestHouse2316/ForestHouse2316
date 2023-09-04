@@ -1,4 +1,11 @@
 # ForestHouse - *A GREENY SPROUT* living in Korea
+![](https://img.shields.io/badge/C++-gray?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+![](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk&logoColor=red)
+![](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=sky)
+![](https://img.shields.io/badge/JS-gray?style=for-the-badge&logo=javascript&logoColor=yellow)
+![](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=csharp&logoColor=green)\
+![](https://img.shields.io/badge/⭐-GenshinImpcat-gray)
+![](https://img.shields.io/badge/Valorant-gray?logo=valorant)
 
 ## Introduction
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ForestHouse2316"></img>

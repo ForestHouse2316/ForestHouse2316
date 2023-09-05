@@ -40,8 +40,7 @@
 - Genshin Impact Content Creator on HoYoLAB (~2023.06)
 
 ## 📆Planned job
-- RaspberryPi IoT
-- gksdudaovld C++ version release
+- gksdudaovld C# version release
 - Physical WOL - Turn on your computer physically
 - Construct OCI server
 - Write GitHub standard guidline

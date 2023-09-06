@@ -2,8 +2,9 @@
 ![](https://img.shields.io/badge/C++-gray?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 ![](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk&logoColor=red)
 ![](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=sky)
-![](https://img.shields.io/badge/JS-gray?style=for-the-badge&logo=javascript&logoColor=yellow)
-![](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=csharp&logoColor=green)\
+![](https://img.shields.io/badge/JS-gray?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=csharp&logoColor=green)
+![](https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vue.js)\
 ![](https://img.shields.io/badge/⭐-GenshinImpcat-gray)
 ![](https://img.shields.io/badge/Valorant-gray?logo=valorant)
 

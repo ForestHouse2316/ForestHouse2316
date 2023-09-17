@@ -25,13 +25,14 @@
 - 📈***Preparing CampusPatentUniversiad competition X(.... HELP***
 - 🍇RaspberryPi IoT system designing
 - ✏️DS / Algorithm study
-- 🏫~~College Stu~~ Nation's son (kinda part-time job lol)
+- 🔫 Nation's son (kinda part-time job lol)
 - 🅰️gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
 - 🔧EZ Manager - Simple utilities for devs
 - 🔒***A SECRET GREENY PROJECT***
 
 ### ⏹️Paused
 - RICA - A strong comment manager which uses neural networks 🛠️ (should be able to handle lots of skills of ML)
+- 🏫~~College Stu~~
 
 ### 🛑Ended activities
 - AELT - Auto EBS Lecture Taker

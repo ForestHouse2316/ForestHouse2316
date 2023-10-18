@@ -22,12 +22,12 @@
 <br>
 
 ## ❎Activities
-- 📈***Preparing CampusPatentUniversiad competition X(.... HELP***
 - 🍇RaspberryPi IoT system designing
 - ✏️DS / Algorithm study
-- 🔫 Nation's son (kinda part-time job lol)
+- 🔫Nation's son (kinda part-time job lol)
 - 🅰️gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
 - 🔧EZ Manager - Simple utilities for devs
+- 🖥️Personal web page [http://foresthouse.win](http://foresthouse.win)
 - 🔒***A SECRET GREENY PROJECT***
 
 ### ⏹️Paused
@@ -40,9 +40,9 @@
 *The GADC's supports have been suspended because of development of the Pocket Genshiner.*
 - Pocket Genshiner - The Genshin in your hand (wht abt using vue.js instead of raw HTML in electron?)
 - Genshin Impact Content Creator on HoYoLAB (~2023.06)
+- CampusPatentUniversiad competition
 
 ## 📆Planned job
 - gksdudaovld C# version release
 - Physical WOL - Turn on your computer physically
-- Construct OCI server
 - Write GitHub standard guidline

@@ -22,16 +22,17 @@
 <br>
 
 ## ❎Activities
-- 🍇RaspberryPi IoT system designing
 - ✏️DS / Algorithm study
 - 🔫Nation's son (kinda part-time job lol)
 - 🅰️gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
-- 🔧EZ Manager - Simple utilities for devs
 - 🖥️Personal web page [http://foresthouse.win](http://foresthouse.win)
+- 📡Remote working environments (such as Portainer.io, jupyter lab, etc)
+- 📜Just a page - OpenSource app of android for web service's debugging and hybrid app making
 - 🔒***A SECRET GREENY PROJECT***
 
 ### ⏹️Paused
 - RICA - A strong comment manager which uses neural networks 🛠️ (should be able to handle lots of skills of ML)
+- 🔧EZ Manager - Simple utilities for devs (Is it useful? truly?)
 - 🏫~~College Stu~~
 
 ### 🛑Ended activities
@@ -41,6 +42,7 @@
 - Pocket Genshiner - The Genshin in your hand (wht abt using vue.js instead of raw HTML in electron?)
 - Genshin Impact Content Creator on HoYoLAB (~2023.06)
 - CampusPatentUniversiad competition
+- 🍇RaspberryPi IoT system designing
 
 ## 📆Planned job
 - gksdudaovld C# version release

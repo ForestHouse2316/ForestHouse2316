@@ -6,7 +6,9 @@
 ![](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=csharp&logoColor=green)
 ![](https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vue.js)\
 ![](https://img.shields.io/badge/⭐-GenshinImpcat-gray)
-![](https://img.shields.io/badge/Valorant-gray?logo=valorant)
+![](https://img.shields.io/badge/Valorant-gray?logo=valorant)\
+<img height="40px" width="40px" src="https://raw.githubusercontent.com/ForestHouse2316/ForestHouse2316/ForestHouse/images/seedling-solid.svg"/>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FForestHouse2316&count_bg=%2334FF00&title_bg=%2300BC1F&title=hits&edge_flat=true)
 
 ## Introduction
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ForestHouse2316"></img>
@@ -26,14 +28,14 @@
 - 🔫Nation's son (kinda part-time job lol)
 - 🅰️gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
 - 🖥️Personal web page [http://foresthouse.win](http://foresthouse.win)
-- 📡Remote working environments (such as Portainer.io, jupyter lab, etc)
 - 📜Just a page - OpenSource app of android for web service's debugging and hybrid app making
 - 🔒***A SECRET GREENY PROJECT***
+- 🎮YRAW - In progress project. You'll be able to check what it is soon😊
 
 ### ⏹️Paused
 - RICA - A strong comment manager which uses neural networks 🛠️ (should be able to handle lots of skills of ML)
 - 🔧EZ Manager - Simple utilities for devs (Is it useful? truly?)
-- 🏫~~College Stu~~
+- 🏫~~College Stu~~ - Cheese... Take me back to my school university🥲
 
 ### 🛑Ended activities
 - AELT - Auto EBS Lecture Taker
@@ -43,8 +45,9 @@
 - Genshin Impact Content Creator on HoYoLAB (~2023.06)
 - CampusPatentUniversiad competition
 - 🍇RaspberryPi IoT system designing
+- 📡Remote working environments (such as Portainer.io, jupyter lab, etc)
 
 ## 📆Planned job
 - gksdudaovld C# version release
 - Physical WOL - Turn on your computer physically
-- Write GitHub standard guidline
+- Write GitHub standard guideline

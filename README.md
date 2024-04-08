@@ -31,6 +31,7 @@
 - 📜Just a page - OpenSource app of android for web service's debugging and hybrid app making
 - 🔒***A SECRET GREENY PROJECT***
 - 🎮YRAW - In progress project. You'll be able to check what it is soon😊
+- 🎮Something like gardening - Also in progress project... right?🙃
 
 ### ⏹️Paused
 - RICA - A strong comment manager which uses neural networks 🛠️ (should be able to handle lots of skills of ML)

@@ -54,5 +54,6 @@
 - 📡Remote working environments (such as Portainer.io, jupyter lab, etc)
 - Physical WOL - Turn on your computer physically
 </details>
+
 ## 🌳Contributed on
 - https://github.com/k4yt3x/video2x-qt6

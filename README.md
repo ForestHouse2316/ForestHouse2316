@@ -23,7 +23,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForestHouse2316&layout=compact&langs_count=8"></img>
 <br>
 
-## ❎Activities
+## 😎Working on
 - 🔫Nation's son (kinda part-time job lol)
 - 📜Just a page - OpenSource app of android for web service's debugging and hybrid app making
 - 🔒***A SECRET GREENY PROJECT***
@@ -49,6 +49,5 @@
 - 📡Remote working environments (such as Portainer.io, jupyter lab, etc)
 - Physical WOL - Turn on your computer physically
 
-## 📆Planned job
-- gksdudaovld C# version release
-- Write GitHub standard guideline
+## 🌳Contributed on
+- https://github.com/k4yt3x/video2x-qt6

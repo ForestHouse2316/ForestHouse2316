@@ -29,7 +29,10 @@
 - 🔒***A SECRET GREENY PROJECT***
 - 🐋WallpaperEngine-DockerStats
 
-### ⏹️Paused
+
+<details>
+  <summary>⏹️Paused</summary>
+  
 - RICA - A strong comment manager which uses neural networks 🛠️ (should be able to handle lots of skills of ML)
 - 🔧EZ Manager - Simple utilities for devs (Is it useful? truly?)
 - 🏫~~College Stu~~ - Cheese... Take me back to my school university🥲
@@ -37,8 +40,10 @@
 - 🖥️Personal web page [http://foresthouse.win](http://foresthouse.win)
 - 🅰️gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
 - ✏️DS / Algorithm study
-
-### 🛑Ended activities
+</details>
+<details>
+  <summary>🛑Ended activities</summary>
+  
 - AELT - Auto EBS Lecture Taker
 - GADC - HoYoLAB Auto check-in program which works on the Windows OS\
 *The GADC's supports have been suspended because of development of the Pocket Genshiner.*
@@ -48,6 +53,6 @@
 - 🍇RaspberryPi IoT system designing
 - 📡Remote working environments (such as Portainer.io, jupyter lab, etc)
 - Physical WOL - Turn on your computer physically
-
+</details>
 ## 🌳Contributed on
 - https://github.com/k4yt3x/video2x-qt6

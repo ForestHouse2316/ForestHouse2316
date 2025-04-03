@@ -4,11 +4,15 @@
 ![](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=sky)
 ![](https://img.shields.io/badge/JS-gray?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjOUI0Rjk2IiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iIzY4MjE3QSIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6TTk3IDY2LjJsLjktNC4zaC00LjJ2LTQuN2g1LjFMMTAwIDUxaDQuOWwtMS4yIDYuMWgzLjhsMS4yLTYuMWg0LjhsLTEuMiA2LjFoMi40djQuN2gtMy4zbC0uOSA0LjNoNC4ydjQuN2gtNS4xbC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZoLTIuNHYtNC43SDk3em00LjggMGgzLjhsLjktNC4zaC0zLjhsLS45IDQuM3oiLz48L3N2Zz4=&logoColor=green)
-![](https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vue.js)\
-![](https://img.shields.io/badge/⭐-GenshinImpcat-gray)
-![](https://img.shields.io/badge/Valorant-gray?logo=valorant)\
+![](https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vue.js)
+![](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=datagrip)
+
+![](https://img.shields.io/badge/GenshinImpcat-gray?logo=googlegemini)
+![](https://img.shields.io/badge/Valorant-gray?logo=valorant)
+![](https://img.shields.io/badge/VRChat-gray?logo=vrchat)
+
 <img height="40px" width="40px" src="https://raw.githubusercontent.com/ForestHouse2316/ForestHouse2316/ForestHouse/images/seedling-solid.svg"/>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FForestHouse2316&count_bg=%2334FF00&title_bg=%2300BC1F&title=hits&edge_flat=true)
 
 ## Introduction
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ForestHouse2316"></img>

@@ -28,7 +28,6 @@
 <br>
 
 ## 😎Working on
-- 🔫Nation's son (kinda part-time job lol)
 - 📜Just a page - OpenSource app of android for web service's debugging and hybrid app making
 - 🔒***A SECRET GREENY PROJECT***
 - 🐋WallpaperEngine-DockerStats
@@ -57,6 +56,7 @@
 - 🍇RaspberryPi IoT system designing
 - 📡Remote working environments (such as Portainer.io, jupyter lab, etc)
 - Physical WOL - Turn on your computer physically
+- 🔫Nation's son (kinda part-time job lol)
 </details>
 
 ## 🌳Contributed on

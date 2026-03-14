@@ -61,3 +61,4 @@
 
 ## 🌳Contributed on
 - https://github.com/k4yt3x/video2x-qt6
+- https://github.com/SlimeVR/SlimeVR-Docs-Site

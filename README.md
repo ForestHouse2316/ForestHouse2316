@@ -7,10 +7,10 @@
 ![](https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vue.js)
 ![](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=datagrip)
+![](https://img.shields.io/badge/VibeCode-gray?style=for-the-badge&logo=claude)
 
-![](https://img.shields.io/badge/GenshinImpcat-gray?logo=googlegemini)
-![](https://img.shields.io/badge/Valorant-gray?logo=valorant)
-![](https://img.shields.io/badge/VRChat-gray?logo=vrchat)
+![](https://img.shields.io/badge/Endfield-gray?style=for-the-badge&logo=obsidian&logoColor=ff8800)
+![](https://img.shields.io/badge/VRChat-gray?style=for-the-badge&logo=vrchat)
 
 <img height="40px" width="40px" src="https://raw.githubusercontent.com/ForestHouse2316/ForestHouse2316/ForestHouse/images/seedling-solid.svg"/>
 

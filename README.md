@@ -15,7 +15,6 @@
 <img height="40px" width="40px" src="https://raw.githubusercontent.com/ForestHouse2316/ForestHouse2316/ForestHouse/images/seedling-solid.svg"/>
 
 ## Introduction
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ForestHouse2316"></img>
 <p align="left">
   <p>Hi there, nice to meet you :)</p>
   <p>My name is ForestHouse, I like to do programming, composing, and many other things by doing with computers.</p>
@@ -24,25 +23,18 @@
   (especially sprout 🌱🌱🌱)</p>
   <br><br>
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForestHouse2316&layout=compact&langs_count=8"></img>
 <br>
 
 ## 😎Working on
-- 📜Just a page - OpenSource app of android for web service's debugging and hybrid app making
-- 🔒***A SECRET GREENY PROJECT***
-- 🐋WallpaperEngine-DockerStats
-
+- 🔒***Secret personal project. Maybe released later...***
+- 🏫College Stu - What should we learn from University? If only a few ones left, should I do school study or the work what I prefer and think much important than it?
+- ☁️GravityDownloader - Download anything. Videos, images, PDFs, musics, etc.
+- 🌕Full Moon - Fully vibed web game. But... It's dirty.
+- 🌱ChibiByte - Global KB management system
 
 <details>
   <summary>⏹️Paused</summary>
   
-- RICA - A strong comment manager which uses neural networks 🛠️ (should be able to handle lots of skills of ML)
-- 🔧EZ Manager - Simple utilities for devs (Is it useful? truly?)
-- 🏫~~College Stu~~ - Cheese... Take me back to my school university🥲
-- 🎮YRAW - 🥹
-- 🖥️Personal web page [http://foresthouse.win](http://foresthouse.win)
-- 🅰️gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
-- ✏️DS / Algorithm study
 </details>
 <details>
   <summary>🛑Ended activities</summary>
@@ -56,7 +48,14 @@
 - 🍇RaspberryPi IoT system designing
 - 📡Remote working environments (such as Portainer.io, jupyter lab, etc)
 - Physical WOL - Turn on your computer physically
+- 📜Just a page - OpenSource app of android for web service's debugging and hybrid app making
 - 🔫Nation's son (kinda part-time job lol)
+- 🐋WallpaperEngine-DockerStats - Since I'm not using WallpaperEngine for my laptop, I don't need it anymore :(
+- 🖥️Personal web page [http://foresthouse.win](http://foresthouse.win)  
+- RICA - A strong comment manager which uses neural networks 🛠️ (should be able to handle lots of skills of ML)
+- 🔧EZ Manager - Simple utilities for devs (Is it useful? truly?)
+- 🅰️gksdudaovld - Awesome mapper for conversion between Korean and English on QWERTY keyboard
+- ✏️DS / Algorithm study
 </details>
 
 ## 🌳Contributed on

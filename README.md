@@ -28,9 +28,8 @@
 ## 😎Working on
 - 🔒***Secret personal project. Maybe released later...***
 - 🏫College Stu - What should we learn from University? If only a few ones left, should I do school study or the work what I prefer and think much important than it?
-- ☁️GravityDownloader - Download anything. Videos, images, PDFs, musics, etc.
-- 🌕Full Moon - Fully vibed web game. But... It's dirty.
-- 🌱ChibiByte - Global KB management system
+- ☁️GravityDownloader - Download anything. Videos, images, PDFs, musics, etc. **I'll release it soon... maybe within this year? (hope so)**
+- 🐈*FIC* - Katze. Help us to increase performance in VR games...?
 
 <details>
   <summary>⏹️Paused</summary>

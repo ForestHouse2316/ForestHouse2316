@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=datagrip)
 ![](https://img.shields.io/badge/VibeCode-gray?style=for-the-badge&logo=claude)
 
+![](https://img.shields.io/badge/Genshin%20Impact-gray?style=for-the-badge&logo=googlegemini&logoColor=ffdd22)
 ![](https://img.shields.io/badge/Endfield-gray?style=for-the-badge&logo=obsidian&logoColor=ff8800)
 ![](https://img.shields.io/badge/VRChat-gray?style=for-the-badge&logo=vrchat)
 
@@ -24,6 +25,20 @@
   <br><br>
 </p>
 <br>
+
+## System
+### Main worker
+- i5 13600K
+- DDR5 48G
+- RTX 4080 Super
+
+### Server (Happy server! 😊)
+- Ryzen 7600
+- DDR5 16G
+- RTX 3060 12G
+<img width="687" height="192" alt="image" src="https://github.com/user-attachments/assets/0763750d-f42e-4809-8814-5af57255dd86" />
+
+
 
 ## 😎Working on
 - 🔒***Secret personal project. Maybe released later...***

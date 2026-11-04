@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vue.js)
 ![](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=datagrip)
-![](https://img.shields.io/badge/VibeCode-gray?style=for-the-badge&logo=claude)
+![](https://img.shields.io/badge/Vibe-gray?style=for-the-badge&logo=linux)
 
 ![](https://img.shields.io/badge/Genshin%20Impact-gray?style=for-the-badge&logo=googlegemini&logoColor=ffdd22)
 ![](https://img.shields.io/badge/Endfield-gray?style=for-the-badge&logo=obsidian&logoColor=ff8800)

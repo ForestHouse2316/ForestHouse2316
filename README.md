@@ -12,19 +12,16 @@
 ![](https://img.shields.io/badge/Genshin%20Impact-gray?style=for-the-badge&logo=googlegemini&logoColor=ffdd22)
 ![](https://img.shields.io/badge/Endfield-gray?style=for-the-badge&logo=obsidian&logoColor=ff8800)
 ![](https://img.shields.io/badge/VRChat-gray?style=for-the-badge&logo=vrchat)
-
-<img height="40px" width="40px" src="https://raw.githubusercontent.com/ForestHouse2316/ForestHouse2316/ForestHouse/images/seedling-solid.svg"/>
+ <img height="40px" width="40px" src="https://raw.githubusercontent.com/ForestHouse2316/ForestHouse2316/ForestHouse/images/seedling-solid.svg" />
 
 ## Introduction
 <p align="left">
   <p>Hi there, nice to meet you :)</p>
   <p>My name is ForestHouse, I like to do programming, composing, and many other things by doing with computers.</p>
-  <p>And as my name implies, I love our Earth and plants
+  <p>And as my name implies, I love plants.
   <br>
-  (especially sprout 🌱🌱🌱)</p>
-  <br><br>
+  (especially sprouts 🌱🌱🌱)</p>
 </p>
-<br>
 
 ## System
 ### Main worker
@@ -34,9 +31,9 @@
 
 ### Server (Happy server! 😊)
 - Ryzen 7600
-- DDR5 16G
+- DDR5 48G
 - RTX 3060 12G
-<img width="687" height="192" alt="image" src="https://github.com/user-attachments/assets/0763750d-f42e-4809-8814-5af57255dd86" />
+<img width="805" height="187" alt="image" src="https://github.com/user-attachments/assets/d190cc20-1f61-42bc-95ee-c26b3414f71a" />
 
 
 
